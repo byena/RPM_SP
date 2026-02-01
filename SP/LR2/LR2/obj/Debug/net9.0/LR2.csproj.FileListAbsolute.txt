@@ -1,0 +1,15 @@
+C:\Users\buena\Documents\GitHub\RPM_SP\SP\LR2\LR2\bin\Debug\net9.0\LR2.exe
+C:\Users\buena\Documents\GitHub\RPM_SP\SP\LR2\LR2\bin\Debug\net9.0\LR2.deps.json
+C:\Users\buena\Documents\GitHub\RPM_SP\SP\LR2\LR2\bin\Debug\net9.0\LR2.runtimeconfig.json
+C:\Users\buena\Documents\GitHub\RPM_SP\SP\LR2\LR2\bin\Debug\net9.0\LR2.dll
+C:\Users\buena\Documents\GitHub\RPM_SP\SP\LR2\LR2\bin\Debug\net9.0\LR2.pdb
+C:\Users\buena\Documents\GitHub\RPM_SP\SP\LR2\LR2\obj\Debug\net9.0\LR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buena\Documents\GitHub\RPM_SP\SP\LR2\LR2\obj\Debug\net9.0\LR2.AssemblyInfoInputs.cache
+C:\Users\buena\Documents\GitHub\RPM_SP\SP\LR2\LR2\obj\Debug\net9.0\LR2.AssemblyInfo.cs
+C:\Users\buena\Documents\GitHub\RPM_SP\SP\LR2\LR2\obj\Debug\net9.0\LR2.csproj.CoreCompileInputs.cache
+C:\Users\buena\Documents\GitHub\RPM_SP\SP\LR2\LR2\obj\Debug\net9.0\LR2.sourcelink.json
+C:\Users\buena\Documents\GitHub\RPM_SP\SP\LR2\LR2\obj\Debug\net9.0\LR2.dll
+C:\Users\buena\Documents\GitHub\RPM_SP\SP\LR2\LR2\obj\Debug\net9.0\refint\LR2.dll
+C:\Users\buena\Documents\GitHub\RPM_SP\SP\LR2\LR2\obj\Debug\net9.0\LR2.pdb
+C:\Users\buena\Documents\GitHub\RPM_SP\SP\LR2\LR2\obj\Debug\net9.0\LR2.genruntimeconfig.cache
+C:\Users\buena\Documents\GitHub\RPM_SP\SP\LR2\LR2\obj\Debug\net9.0\ref\LR2.dll
