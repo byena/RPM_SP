@@ -11,11 +11,11 @@ class Program
             Console.WriteLine($"id: {process.Id} name: {process.ProcessName}");
         }
 
-        Console.WriteLine("потоки процесса visual studio:");
-        Process[] vsProcs = Process.GetProcessesByName("devenv");
-        if (vsProcs.Length > 0)
+        Console.WriteLine("потоки процесса rider:");
+        Process[] riderProcs = Process.GetProcessesByName("rider64");
+        if (riderProcs.Length > 0)
         {
-            ProcessThreadCollection processThreads = vsProcs[0].Threads;
+            ProcessThreadCollection processThreads = riderProcs[0].Threads;
             foreach (ProcessThread thread in processThreads)
             {
                 Console.WriteLine($"threadid: {thread.Id}");
