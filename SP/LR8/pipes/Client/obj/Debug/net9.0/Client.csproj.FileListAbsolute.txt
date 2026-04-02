@@ -1,0 +1,15 @@
+C:\Users\byena\Documents\GitHub\RPM_SP\SP\LR8\pipes\Client\bin\Debug\net9.0\Client.exe
+C:\Users\byena\Documents\GitHub\RPM_SP\SP\LR8\pipes\Client\bin\Debug\net9.0\Client.deps.json
+C:\Users\byena\Documents\GitHub\RPM_SP\SP\LR8\pipes\Client\bin\Debug\net9.0\Client.runtimeconfig.json
+C:\Users\byena\Documents\GitHub\RPM_SP\SP\LR8\pipes\Client\bin\Debug\net9.0\Client.dll
+C:\Users\byena\Documents\GitHub\RPM_SP\SP\LR8\pipes\Client\bin\Debug\net9.0\Client.pdb
+C:\Users\byena\Documents\GitHub\RPM_SP\SP\LR8\pipes\Client\obj\Debug\net9.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byena\Documents\GitHub\RPM_SP\SP\LR8\pipes\Client\obj\Debug\net9.0\Client.AssemblyInfoInputs.cache
+C:\Users\byena\Documents\GitHub\RPM_SP\SP\LR8\pipes\Client\obj\Debug\net9.0\Client.AssemblyInfo.cs
+C:\Users\byena\Documents\GitHub\RPM_SP\SP\LR8\pipes\Client\obj\Debug\net9.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\byena\Documents\GitHub\RPM_SP\SP\LR8\pipes\Client\obj\Debug\net9.0\Client.sourcelink.json
+C:\Users\byena\Documents\GitHub\RPM_SP\SP\LR8\pipes\Client\obj\Debug\net9.0\Client.dll
+C:\Users\byena\Documents\GitHub\RPM_SP\SP\LR8\pipes\Client\obj\Debug\net9.0\refint\Client.dll
+C:\Users\byena\Documents\GitHub\RPM_SP\SP\LR8\pipes\Client\obj\Debug\net9.0\Client.pdb
+C:\Users\byena\Documents\GitHub\RPM_SP\SP\LR8\pipes\Client\obj\Debug\net9.0\Client.genruntimeconfig.cache
+C:\Users\byena\Documents\GitHub\RPM_SP\SP\LR8\pipes\Client\obj\Debug\net9.0\ref\Client.dll
